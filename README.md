@@ -10,7 +10,7 @@
 - Android: https://play.google.com/store/apps/details?id=com.lashevskiy.RepetitorsApp
 
 СТЕК: 
-React, React Native, Expo, Redux, Redux-Saga, reselect, VKUI, VK Bridge, etc
+JavaScript, React, React Native, Expo, Redux, Redux-Saga, Reselect, VKUI, etc
 
 ### Дата релиза: `6 марта 2021 года`
 
